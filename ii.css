@@ -1,0 +1,453 @@
+.a1 {
+
+    position: absolute;
+    width: 556px;
+    height: 371px;
+    left: 127px;
+    top: 3162px;
+
+
+}
+.a3 {
+    position: absolute;
+    width: 550px;
+    height: 280px;
+    left: 121px;
+    top: 3242px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+
+
+    position: absolute;
+    width: 556px;
+    height: 371px;
+    left: 127px;
+    top: 3162px;
+
+
+}
+.q1 {
+    position: absolute;
+width: 505px;
+height: 134px;
+left: 810px;
+top: 3311px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 176%;
+
+
+letter-spacing: 0.02em;
+
+color: #1E1E1E;
+}
+.q2 {
+    position: absolute;
+width: 864px;
+height: 99px;
+left: 293px;
+top: 3871px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 176%;
+/* or 32px */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #1E1E1E;
+
+}
+.q3 {
+    position: absolute;
+width: 547px;
+height: 238px;
+left: 150px;
+top: 4112px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 176%;
+/* or 32px */
+
+letter-spacing: 0.02em;
+
+color: #1E1E1E;
+
+}
+.a4 {
+    position: absolute;
+width: 56px;
+height: 56px;
+left: 736px;
+top: 3249px;
+}
+.a5 {
+    position: absolute;
+width: 1280px;
+height: 413px;
+left: 80px;
+top: 3175px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+.a5 {
+    position: absolute;
+width: 157px;
+height: 48px;
+left: 150px;
+top: 4371px;
+background: #FACA10;
+box-shadow: 0px 10px 40px -12px rgba(250, 202, 16, 0.35);
+border-radius: 5px;
+}
+.a6 {
+    position: absolute;
+width: 97px;
+height: 25px;
+left: 180px;
+top: 4369px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+.w1 {
+    position: absolute;
+width: 900px;
+height: 424px;
+left: 736px;
+top: 4027px;
+background: url(image.png);
+}
+.w2 {
+    position: absolute;
+width: 1440px;
+height: 950px;
+left: 0px;
+top: 2734px;
+
+background: #F2F2F2;
+}
+.q4 {
+    position: absolute;
+width: 465px;
+height: 59px;
+left: 487px;
+top: 2831px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 133.4%;
+/* identical to box height, or 59px */
+
+letter-spacing: 0.02em;
+
+color: #1E1E1E;
+
+}
+.q5 {
+    position: absolute;
+width: 864px;
+height: 99px;
+left: 291px;
+top: 2918px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 176%;
+/* or 32px */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #1E1E1E;
+
+}
+.j1 {
+    position: absolute;
+width: 1280px;
+height: 413px;
+left: 80px;
+top: 3140px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+.q6 {
+    
+
+    position: absolute;
+    width: 138px;
+    height: 41px;
+    left: 811px;
+    top: 3208px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #1E1E1E;
+}
+.l1 {
+    position: absolute;
+width: 342px;
+height: 41px;
+left: 150px;
+top: 4058px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #1E1E1E;
+
+}
+.l2 {
+    position: absolute;
+width: 641px;
+height: 59px;
+left: 404px;
+top: 3784px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 133.4%;
+/* identical to box height, or 59px */
+
+letter-spacing: 0.02em;
+
+color: #1E1E1E;
+
+}
+.s1 {
+    position: absolute;
+width: 139px;
+height: 139px;
+left: 741px;
+top: 4377px;
+
+
+
+}
+.r1 {
+    position: absolute;
+width: 157px;
+height: 48px;
+left: 810px;
+top: 3475px;
+
+background: #1E1E1E;
+box-shadow: 0px 10px 40px -12px rgba(30, 30, 30, 0.35);
+border-radius: 5px
+}
+.r2 {
+    position: absolute;
+width: 157px;
+height: 48px;
+left: 840px;
+top: 3475px;
+
+color: #F2F2F2;
+
+}
+.a2 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 517px;
+top: 3082px;
+}
+.v1 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 180px;
+height: 48px;
+left: 302px;
+top: 3067px;
+
+background: #FACA10;
+box-shadow: 0px 10px 40px -12px rgba(250, 202, 16, 0.35);
+border-radius: 5px;
+
+}
+.v2 {
+    position: absolute;
+width: 157px;
+height: 48px;
+left: 558px;
+top: 3067px;
+
+background: #FACA10;
+box-shadow: 0px 10px 40px -12px rgba(250, 202, 16, 0.35);
+border-radius: 5px;
+
+}
+.v3 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 157px;
+height: 48px;
+left: 791px;
+top: 3067px;
+
+background: #FACA10;
+box-shadow: 0px 10px 40px -12px rgba(250, 202, 16, 0.35);
+border-radius: 5px;
+}
+.x1 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 254px;
+top: 3082px;
+}
+.x2 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 750px;
+top: 3082px;
+}
+.x3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 983px;
+top: 3082px;
+}
+.v4 {
+    position: absolute;
+width: 157px;
+height: 48px;
+left: 1024px;
+top: 3067px;
+
+background: #FACA10;
+box-shadow: 0px 10px 40px -12px rgba(250, 202, 16, 0.35);
+border-radius: 5px;
+}
+.u1 {
+    position: absolute;
+width: 153px;
+height: 25px;
+left: 316px;
+top: 3060px;
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+
+
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.u2 {
+    position: absolute;
+width: 83px;
+height: 25px;
+left: 595px;
+top: 3060px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+
+
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+.u3 {
+    position: absolute;
+width: 91px;
+height: 25px;
+left: 824px;
+top: 3060px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+
+
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+.u4 {
+    position: absolute;
+width: 125px;
+height: 25px;
+left: 1045px;
+top: 3060px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+
+
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+
+
+
+
+
