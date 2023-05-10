@@ -1,14 +1,19 @@
 import Header from './proect/Header/header'
-import Main from './main/Main'
-import Footer from './footer/Footer'
-import './App.css';
+// import './App.css';
+import './proect/Header/Header.css'
+
+function PressOnButton() {
+  console.log("information")
+}
 
 function App() {
   return (
     <div className="App">
-      <header />
-      <main />
-      <footer />
+      <button class = "yellow-button" onClick = {PressOnButton}>get in touch</button>
+      <div><button class = "button">get in touch</button></div>
+      <button class = "read-more">read more</button>
+       
+      <Header />
     </div>
   );
 }
