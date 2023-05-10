@@ -63,6 +63,7 @@ function Blog(props) {
           </div>
         ))}
       </div>
+      <button className="view-button">View More</button>
     </>
   );
 }

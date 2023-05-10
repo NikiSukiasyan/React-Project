@@ -1,0 +1,58 @@
+* {
+  margin: auto;
+  box-sizing: border-box;
+}
+.testimonials {
+  background-color: #fff;
+  margin-top: 81px;
+}
+.title {
+  font-size: 44px;
+  line-height: 58.7px;
+  font-family: Nunito;
+  color: #1e1e1e;
+  text-align: center;
+  border-bottom: 5.49px solid #fbcc04;
+  padding-bottom: 8px;
+  width: 377px;
+}
+.profile-container {
+  margin-left: 236px;
+  margin-top: 78px;
+  display: inline-block;
+}
+.profile-container img {
+  padding: 80px;
+  cursor: pointer;
+}
+.text {
+  font-size: 18px;
+  line-height: 31.68px;
+  font-family: Lora;
+  text-align: Center;
+  width: 864px;
+}
+.text-container {
+  display: flex;
+  margin-top: 28px;
+  position: relative;
+}
+.text-container p {
+  font-size: 24px;
+  line-height: 32.74px;
+  color: #1e1e1e;
+  font-family: Nunito;
+}
+.text-container span {
+  font-size: 17px;
+  font-family: Lora;
+  line-height: 21.76px;
+  margin-left: -812px;
+  color: #1e1e1e;
+}
+.dot {
+  position: absolute;
+  cursor: pointer;
+  top: 81px;
+  left: 48.6%;
+}
